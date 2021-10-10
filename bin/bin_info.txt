@@ -1,0 +1,1 @@
+diretório responsável pela saída dos programas dos Makefiles
